@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="nametext" type="id" />
+    <item name="passtext" type="id" />
+    <item name="nextbt" type="id" />
+    <item name="savebtn" type="id" />
+    <item name="retrievebtn" type="id" />
+    <item name="backbtn" type="id" />
+</resources>
